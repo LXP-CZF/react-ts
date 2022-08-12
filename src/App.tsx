@@ -1,8 +1,12 @@
 import CommentArea from './views/comment-area/CommentArea'
+import Parent from './components/Parent'
 
 function App() {
   return (
-    <CommentArea />
+    <>
+      <Parent />
+      <CommentArea />
+    </>
   );
 }
 
