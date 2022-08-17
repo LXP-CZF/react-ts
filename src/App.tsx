@@ -1,10 +1,12 @@
 import CommentArea from './views/comment-area/CommentArea'
-import Parent from './components/Parent'
+// import TestUseState from './views/test/TestUseState'
+import TableCom from './views/components/TableCom'
 
 function App() {
   return (
     <>
-      <Parent />
+      {/* <TestUseState age={18} /> */}
+      <TableCom />
       <CommentArea />
     </>
   );

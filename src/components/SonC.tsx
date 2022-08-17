@@ -1,6 +1,6 @@
 import { customContext } from '../utils/customContext'
 
-const SonC = () => {
+const SonC: React.FC = () => {
     return (
         <>
             组件C
