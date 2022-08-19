@@ -1,0 +1,16 @@
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "arrowParens": "always",
+  "htmlWhitespaceSensitivity": "ignore",
+  "requirePragma": false,
+  "proseWrap": "preserve",
+  "endOfLine": "auto",
+  "extends": ["airbnb", "prettier", "prettier/react"]
+}

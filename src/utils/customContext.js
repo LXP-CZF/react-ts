@@ -1,3 +1,3 @@
-import { createContext } from "react";
+import { createContext } from 'react'
 
-export const customContext = createContext(); //secondContext自定义名称
+export const customContext = createContext() //secondContext自定义名称
